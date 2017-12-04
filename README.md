@@ -1,5 +1,7 @@
 # Java Technical Exercise - Tuan Nguyen
 
+**The ```PoorGroup.java``` has been renamed to ```Group.java``` and now placed in ```src/main/java/com/treasuredata/exercise```**
+
 Please notice:
 
 * This is a maven base project. So, you can import this into any IDE that you like (Eclipse, Intellij IDEA, etc...)
